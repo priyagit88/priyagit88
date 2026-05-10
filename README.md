@@ -26,8 +26,6 @@ Software Developer | MCA Student @ RVCE | Odoo ERP Developer | Problem Solver
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="350"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 * 🎓 MCA Student at **RV College of Engineering (2025-2027)**
 * 💻 Passionate about **Full Stack Development & ERP Solutions**
