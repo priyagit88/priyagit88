@@ -159,7 +159,7 @@ def portrait_points(theme: str, rng: np.random.Generator) -> np.ndarray:
     """Return sampled x/y banner coordinates from a 300x340 dither grid."""
     source = Image.open(SOURCE).convert("RGBA")
     # Tighter head + shoulders crop so face detail fills the VISUAL.MAP frame.
-    crop = source.crop((18, 28, 390, 450)).resize((300, 340), Image.Resampling.LANCZOS)
+    crop = source.crop((15, 100, 791, 980)).resize((300, 340), Image.Resampling.LANCZOS)
     rgb = crop.convert("RGB")
     alpha = np.asarray(crop.getchannel("A"), dtype=np.float32) / 255.0
 
