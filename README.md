@@ -2,9 +2,9 @@
 
 <!-- BANNER - terminal profile.sh --live -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/banner-dark.v9.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.png">
-  <img src="assets/banner-dark.v9.png" width="100%" alt="profile.sh --live">
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/banner-dark.v9.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
+  <img src="assets/banner-dark.v9.svg" width="100%" alt="profile.sh --live">
 </picture>
 
 <br>
@@ -31,18 +31,6 @@
 
 ## This is me :)
 
-<table>
-<tr>
-<td width="30%" align="center" valign="top">
-<!-- Dottified Portrait -> generated from scripts/dotify.py -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/portrait-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/portrait-light.svg">
-  <img src="assets/portrait-dark.svg" width="220" alt="Priya N">
-</picture>
-</td>
-<td width="70%" valign="top">
-
 Hi, I'm **Priya N**, a passionate full-stack developer and MCA student from Bangalore 🇮🇳.  
 I love building web applications that are **scalable, secure, and actually useful** for real people.
 
@@ -53,10 +41,6 @@ I love building web applications that are **scalable, secure, and actually usefu
 - 🧩 Built a full-featured **number-link puzzle game** (Zip Game) with procedural level generation, undo/hint mechanics & a real-time scoring system.
 - 🌱 **On a mission:** to craft software that solves real-world problems — one clean commit at a time.
 - 💬 Talk to me about **full-stack web dev, ERP systems, or hackathon strategy** and I'm all yours.
-
-</td>
-</tr>
-</table>
 
 <br>
 

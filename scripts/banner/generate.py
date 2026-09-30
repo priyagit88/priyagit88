@@ -30,21 +30,21 @@ TRAVELLER_COUNT = 900
 SEED = 314159
 
 ROWS = [
-    ("Subject", "Emmi"),
-    ("Role", "Blockchain Engineer · Tech Lead"),
-    ("Origin", "Bolivia"),
-    ("Education", "Community · LATAM"),
+    ("Subject", "Priya N"),
+    ("Role", "Full Stack Developer · MCA Student"),
+    ("Origin", "India"),
+    ("Education", "RVCE Bangalore"),
     ("Status", "Building + Learning + Shipping"),
-    ("ToolChain", "Sublime · Cursor · Git"),
-    ("Core.Lang", "TypeScript · Rust · Solidity"),
-    ("Core.Frontend", "React · Next.js · Three.js · Tailwind"),
-    ("Core.Backend", "Node · Python"),
-    ("Core.Database", "Postgres · Supabase"),
-    ("Core.Infra", "Vercel · Docker · AWS"),
-    ("Grid.Mail", "—"),
-    ("Grid.LinkedIn", "/in/emmi-aguilar-rivero"),
-    ("Grid.GitHub", "emmi-lili"),
-    ("Grid.X", "@emmcriptada"),
+    ("ToolChain", "VS Code · Git · GitHub"),
+    ("Core.Lang", "Java · JavaScript · Python"),
+    ("Core.Frontend", "React · Next.js · HTML/CSS"),
+    ("Core.Backend", "Node.js · Express"),
+    ("Core.Database", "Postgres · MySQL · MongoDB"),
+    ("Core.Infra", "Odoo ERP"),
+    ("Grid.Mail", "priyatechh@gmail.com"),
+    ("Grid.LinkedIn", "/in/priya-n"),
+    ("Grid.GitHub", "priyagit88"),
+    ("Grid.X", "—"),
 ]
 
 THEMES = {
@@ -282,7 +282,7 @@ def render_svg(
         '<svg xmlns="http://www.w3.org/2000/svg" '
         f'width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" '
         'aria-labelledby="title desc">',
-        "<title id=\"title\">Emmi's live system profile</title>",
+        "<title id=\"title\">Priya's live system profile</title>",
         '<desc id="desc">Animated terminal profile with a dithered portrait and '
         "Rust, code, and Stellar silhouettes.</desc>",
         "<defs>",
@@ -401,7 +401,7 @@ def render_svg(
             f'stroke="{t["chrome"]}"/>',
             f'<text x="1055" y="111" text-anchor="middle" fill="{t["chrome"]}" '
             'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" '
-            'font-weight="700">@emmi-lili</text>',
+            'font-weight="700">@priyagit88</text>',
         ]
     )
 
