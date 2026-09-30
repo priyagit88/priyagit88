@@ -9,6 +9,13 @@
 
 <br>
 
+<!-- ROBOT ANIMATED BANNER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Robot Banner" width="100%" />
+</div>
+
+<br>
+
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/priyagit88">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=Priya+N+%E2%80%94+Full+Stack+Developer+%26+MCA+Student;Java+%2F+React+%2F+Node.js+%2F+Odoo+ERP;Building+real+things+%F0%9F%87%AE%F0%9F%87%B3+from+Bangalore" alt="typing banner">
@@ -101,6 +108,13 @@ I love building web applications that are **scalable, secure, and actually usefu
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyagit88&layout=compact&theme=github_dark&hide_border=true&title_color=aa9bef&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117" height="165" alt="most used languages">
 
+<br><br>
+
+<!-- SPACE SHOOTER CONTRIBUTION GRAPH -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" width="100%" />
+</p>
+
 </div>
 
 ---
@@ -120,6 +134,20 @@ I love building web applications that are **scalable, secure, and actually usefu
 ---
 
 <div align="center">
+
+<!-- PACMAN / SNAKE CONTRIBUTION EATING ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyagit88/priyagit88/output/github-contribution-grid-snake-dark.svg" alt="Pacman / Snake Contribution Eating Game" width="100%" />
+</p>
+
+<br>
+
+<!-- BOTTOM ANIMATED DIVIDER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
+
+<br>
 
 <sub>` Built with love · @priyatechh `</sub>
 
