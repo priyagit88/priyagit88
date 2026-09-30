@@ -3,7 +3,7 @@
 <!-- BANNER - terminal profile.sh --live -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/banner-dark.v9.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-dark.v9.svg">
   <img src="assets/banner-dark.v9.svg" width="100%" alt="profile.sh --live">
 </picture>
 
@@ -65,7 +65,7 @@ I love building web applications that are **scalable, secure, and actually usefu
 <!-- Self-rated radar - edit assets/skills.json, the workflow redraws it -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-dark.svg">
   <img src="assets/radar-dark.svg" width="400" alt="skill radar chart">
 </picture>
 
@@ -75,7 +75,7 @@ I love building web applications that are **scalable, secure, and actually usefu
 <!-- Hand-authored language & stack radar - edit assets/langmix.json -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-dark.svg">
   <img src="assets/radar-langs-dark.svg" width="400" alt="language radar chart">
 </picture>
 
@@ -93,7 +93,7 @@ I love building web applications that are **scalable, secure, and actually usefu
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/card-stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-dark.svg">
   <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
 </picture>
 
