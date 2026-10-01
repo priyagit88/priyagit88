@@ -53,7 +53,7 @@ I love building web applications that are **scalable, secure, and actually usefu
 
 <div align="center">
 
-## my perfect stack`
+## my stack
 
 <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,python,html,css,bootstrap,postgres,mysql,git,github,vscode&perline=7" alt="tech stack">
 
@@ -63,81 +63,9 @@ I love building web applications that are **scalable, secure, and actually usefu
 
 <div align="center">
 
-## signals
-
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<!-- Self-rated radar - edit assets/skills.json, the workflow redraws it -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-dark.svg">
-  <img src="assets/radar-dark.svg" width="400" alt="skill radar chart">
-</picture>
-
-</td>
-<td width="50%" align="center" valign="middle">
-
-<!-- Hand-authored language & stack radar - edit assets/langmix.json -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-dark.svg">
-  <img src="assets/radar-langs-dark.svg" width="400" alt="language radar chart">
-</picture>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## Numbers matter? ohhh yes.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-dark.svg">
-  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
-</picture>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyagit88&layout=compact&theme=github_dark&hide_border=true&title_color=aa9bef&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117" height="165" alt="most used languages">
-
-<br><br>
-
 <!-- SPACE SHOOTER CONTRIBUTION GRAPH -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" width="100%" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-## featured projects
-
-| Project | Stack | Highlights |
-|---|---|---|
-| 🏫 **Campus Resource Management** | React · Node.js · Express · MongoDB | Full-stack booking system for classrooms, labs & seminar halls with real-time admin oversight |
-| 🧩 **Zip Game** | Java · JavaScript | Number-link puzzle on a 6×6 grid with procedural level gen, undo/hint & best-time tracking |
-| 🛒 **Odoo E-Commerce App** | Odoo ERP · Python · PostgreSQL | End-to-end e-commerce with Sales, Purchase, Inventory, Website & PoS module integration |
-
-</div>
-
----
-
-<div align="center">
-
-<!-- PACMAN / SNAKE CONTRIBUTION EATING ANIMATION -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/priyagit88/priyagit88/output/github-contribution-grid-snake-dark.svg" alt="Pacman / Snake Contribution Eating Game" width="100%" />
+  <img src="https://raw.githubusercontent.com/priyagit88/priyagit88/output/space-shooter.gif" alt="Space shooter contribution graph" width="100%" />
 </p>
 
 <br>
