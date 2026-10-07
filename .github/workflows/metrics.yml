@@ -21,7 +21,7 @@ jobs:
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.secret_PERSONAL_TOKEN }}
           user: priyagit88
           filename: assets/metrics.languages.svg
           base: ""
